@@ -48,9 +48,9 @@ Former DevRel at Xano. Based in Austin, TX.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WellDunDun&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=3B82F6&text_color=777777&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=WellDunDun&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=3B82F6&text_color=777777&count_private=true" height="165" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=WellDunDun&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=777777&currStreakNum=777777&sideNums=777777&dates=999999" height="165" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=WellDunDun&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=777777&currStreakNum=777777&sideNums=777777&dates=999999" height="165" alt="GitHub Streak" />
 
 </div>
 
