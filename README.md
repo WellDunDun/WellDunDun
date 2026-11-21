@@ -33,7 +33,7 @@ Former DevRel at Xano. Based in Austin, TX.
 | [EmDash](https://github.com/emdash-cms/emdash) | Fixed [locale-scoped content updates](https://github.com/emdash-cms/emdash/pull/1302) (merged, closes [#1243](https://github.com/emdash-cms/emdash/issues/1243)); reported [admin locale resolution](https://github.com/emdash-cms/emdash/issues/1242) and [MCP schema compatibility](https://github.com/emdash-cms/emdash/issues/4817). |
 | [Mobile Use](https://github.com/minitap-ai/mobile-use) | Added [agent skills for the SDK setup wizard](https://github.com/minitap-ai/mobile-use/pull/174) (merged). |
 | [Rivet Sandbox Agent](https://github.com/rivet-dev/agents/tree/main/sandbox-agent) | Contributed a fix for [OpenCode event streaming and permission handling](https://github.com/rivet-dev/agents/pull/48), [merged manually by Nathan Flurry](https://github.com/rivet-dev/agents/commit/d67cc6edf47a01c5f28d624c497abe683e5cbe17). |
-| [Rivet AgentOS](https://github.com/rivet-dev/agentos) | Reported a [Codex WASM socket ABI mismatch](https://github.com/rivet-dev/agentos/issues/1994) (closed as not planned). |
+| [Rivet AgentOS](https://github.com/rivet-dev/agentos) | Submitted a [fix for nested commands stalling under WASM](https://github.com/rivet-dev/agentos/pull/2007) with regression coverage; also reported a [Codex WASM socket ABI mismatch](https://github.com/rivet-dev/agentos/issues/1994). |
 | [Intercom Flutter](https://github.com/deepak786/intercom_flutter) | Reported a [pre-populated message not showing](https://github.com/deepak786/intercom_flutter/issues/448). |
 
 <br/>
