@@ -38,6 +38,12 @@ Former DevRel at Xano. Based in Austin, TX.
 
 <br/>
 
+### Public Bug Reports
+
+- **FlutterFlow:** Reported a [walkthrough crash when targeting a SliverAppBar](https://github.com/FlutterFlow/flutterflow-issues/issues/2411); FlutterFlow [confirmed and fixed it](https://github.com/FlutterFlow/flutterflow-issues/issues/2411#issuecomment-1985018921).
+
+<br/>
+
 ### Tech Stack
 
 <div align="center">
